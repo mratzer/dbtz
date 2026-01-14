@@ -10,7 +10,7 @@
     <name>dbtz</name>
 
     <properties>
-        <java.version>21</java.version>
+        <java.version>25</java.version>
 
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
@@ -23,7 +23,7 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.7.4</version>
+            <version>42.7.8</version>
         </dependency>
     </dependencies>
 
